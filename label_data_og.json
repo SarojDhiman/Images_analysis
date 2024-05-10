@@ -1,0 +1,16 @@
+{   "31b1": ["Property not owned or entitled to by the user"],
+    "31b2": ["violence","is obscene", "pornographic", "paedophilic", "invasive of another's privacy including bodily privacy", 
+            "insulting or harassing on the basis of gender","racially or ethnically objectionable",
+            "relating or encouraging money laundering or gambling"],
+    "31b3": ["is harmful to child"],
+    "31b4": ["Violates intellectual property rights"], 
+    "31b5": ["deceives", "misleads the addressee about the origin of the message, knowingly and intentionally communicates any misinformation, information which is patently false and untrue", "misleading in nature"],
+    "31b6": ["impersonates another person"], 
+    "31b7": ["threatens the unity", "integrity", "defence", "security or sovereignty of India, friendly relations with foreign States", "public order", "causes incitement to the commission of any cognisable offence", "prevents\ninvestigation of any offence", "is insulting other nation"], 
+    "31b8": ["contains software virus or any other computer code","Includes harmful software.", "file or program designed to interrupt", "destroy or limit the functionality of any computer resource"], 
+    "31b9":["Unverified online game."],
+    "31b10":["Unauthorized game promotion"] , 
+    "31b11": ["violates any law for the time being in force"]}
+
+   
+
